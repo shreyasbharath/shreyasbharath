@@ -22,3 +22,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Concourse](https://img.shields.io/badge/-Concourse-000?&logo=Concourse)
+![CMake](https://img.shields.io/badge/-CMake-000?&logo=CMake)
+![Make](https://img.shields.io/badge/-Make-000?&logo=Make)
+![Rake](https://img.shields.io/badge/-Rake-000?&logo=Rake)
+![ARM](https://img.shields.io/badge/-ARM-000?&logo=ARM)
