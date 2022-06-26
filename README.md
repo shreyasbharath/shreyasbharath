@@ -20,3 +20,5 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=ElasticSearch)
 ![SumoLogic](https://img.shields.io/badge/-SumoLogic-000?&logo=SumoLogic)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+![Concourse](https://img.shields.io/badge/-Concourse-000?&logo=Concourse)
